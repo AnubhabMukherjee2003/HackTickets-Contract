@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Compilation output
+dist/
+
+# Hardhat Build Artifacts
+artifacts/
+
+# Hardhat compilation cache
+cache/
+
+# TypeChain generated types
+typechain-types/
+
+# Hardhat coverage reports
+coverage/
+coverage.json
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# pnpm
+bundle/
+
+# OS
+.DS_Store
+Thumbs.db
